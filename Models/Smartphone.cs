@@ -14,7 +14,6 @@ namespace DesafioPOO.Models
             Modelo = modelo;
             IMEI = imei;
             Memoria = memoria;
-
         }
 
         public void Ligar()
